@@ -7,3 +7,5 @@ It keeps the control of which files do you want to keep track.
 
 ** How can you use the staging area to make sure you have one commit per logical change? **
 I can use the staging area only adding to it the files that have been changed by one logical change.
+
+** Dumb question? **

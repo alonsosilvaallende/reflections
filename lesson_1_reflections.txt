@@ -26,3 +26,5 @@ Since I know I can go back in time to a previous version of the repository then 
 ** Now that you have your workspace set up, what do you want to try using Git for?**
 
 My webpage most likely some papers too.
+
+** Another dumb question **
