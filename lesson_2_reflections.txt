@@ -1,0 +1,2 @@
+** What happens when you initialize a repository? Why do you need to do it? **
+When I initialize a repository, git creates a directory called '.git' where there are no commits. I need to initialize the repository so that git knows that I want to keep track of some files in that directory which I will need to identify later.
