@@ -23,4 +23,6 @@ git log allows me to see the whole list of commits that have been done in the re
 
 Since I know I can go back in time to a previous version of the repository then I can risk more and I know that I can always go back to the previous version of the repository.
 
+** Now that you have your workspace set up, what do you want to try using Git for?**
 
+My webpage most likely some papers too.
