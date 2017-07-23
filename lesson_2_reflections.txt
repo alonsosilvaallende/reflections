@@ -8,4 +8,18 @@ It keeps the control of which files do you want to keep track.
 ** How can you use the staging area to make sure you have one commit per logical change? **
 I can use the staging area only adding to it the files that have been changed by one logical change.
 
-** Dumb question? **
+** What are some situations when branches would be helpful in keeping your history organized? How would branches help? **
+
+When there are some new features which are not directly related to the main branch. They would help to keep things organized and not modify the main branch.
+
+** How do the diagrams help you visualize the branch structure? **
+
+The diagrams help to understand the branches and also the problems of reachability which is when you modify some previous commit you may lose the work that you're doing in that commit.
+
+** What is the result of merging two branches together? Why do we represent it in the diagram the way we do? **
+
+The result of merging two branches together is to construct a merge of both branches where the master head will continue to be the indicator of the new merged commit. It is represented in the diagram in that way because it will have two parents.
+
+** What are the pros and cons of Git's automatic merging vs. always doing merges manually? **
+
+The advantages of Git's automatic merging is that it is faster and requires less effort in cases when Git can resolve the conflict resolution. The disadvantages are that you need to resolve the conflicts.
