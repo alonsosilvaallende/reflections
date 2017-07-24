@@ -14,3 +14,7 @@ I would use branches when I want to change a feature of my program but it's stil
 
 The benefit of having a copy of the last known state of the remote stored locally is that I can work with the most updated version of the current program and also in case I want to incorporate new changes that will not cause conflict with the existing last known state of the remote.
 
+** How would you collaborate without using Git or GitHub? What would be easier, and what would be harder? **
+
+To collaborate without using Git or GitHub I would need to send the whole file through e-mail and there would be a lot of back and forth of e-mails with perhaps not many changes. I think there is a learning curve with Git and GitHub but it's worth it and what would be harder would be in the case of the e-mails to check the previous changes that were made.
+
