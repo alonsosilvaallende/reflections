@@ -9,3 +9,8 @@ It may be interesting to pull changes manually in case I want to try some new fe
 ** Describe the differences between forks, clones, and branches. When would you use one instead of another? **
 
 I would use branches when I want to change a feature of my program but it's still not ready to go into the main program (which should be always running). I would use clone to copy some repository from my remote repository for example when I'm using another computer or even if I want to clone the same program in my local repository. I would use fork when I want to change someone else version of a program but I don't have permission to change it so I would fork their program and make the changes myself in my own remote copy of their remote repository.
+
+** What is the benefit of having a copy of the last known state of the remote stored locally? **
+
+The benefit of having a copy of the last known state of the remote stored locally is that I can work with the most updated version of the current program and also in case I want to incorporate new changes that will not cause conflict with the existing last known state of the remote.
+
